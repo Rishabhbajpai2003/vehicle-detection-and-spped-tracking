@@ -1,0 +1,4 @@
+cmake==3.12.0
+dlib==19.16.0
+numpy==1.15.3
+pip2 install python-opencv==3.4.3.18
